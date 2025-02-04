@@ -15,7 +15,8 @@ The Movie ETL Project is an Extract, Transform, Load (ETL) pipeline designed to 
 
 This ETL pipeline automates the process of handling movie data, enabling easy retrieval, cleaning, transformation, and storage for further analysis. The data processing ensures consistency and quality, making it suitable for creating visual insights into trends, genres, language distribution, and popularity metrics.
 
-![Project Overview](img/project_overview.png)
+![image](https://github.com/user-attachments/assets/f13b48e0-5445-44fd-9523-c7f35da0a13e)
+
 
 ## Features
 
@@ -33,7 +34,8 @@ The PostgreSQL database consists of the following tables:
 3. **movie_genres**: A junction table that links movies to their genres, using foreign keys `movie_id` and `genre_id`.
 
 ### DB Schema
-  ![db schema](img/DBschema.png)
+ ![image](https://github.com/user-attachments/assets/4b44d1d8-df98-4097-8eee-d6a6ca2a5d27)
+
 
 This structure allows efficient querying of movie details, genre classification, and relationships for analysis and visualization.
 
@@ -95,7 +97,8 @@ This structure allows efficient querying of movie details, genre classification,
   - Import the data tables and create visualizations based on your analysis needs
   
 ## Power BI Dashboard
-  ![PowerBI Dashboard](img/Powerbi.png)
+  ![image](https://github.com/user-attachments/assets/3a3249d4-5f80-4da6-87a8-238a0399d062)
+
 
 ## Logging Sample
-  ![Log Sample](img/log_sample.png)
+  ![image](https://github.com/user-attachments/assets/62ef9ba4-2a50-46fa-9c68-aa9122484925)
