@@ -53,7 +53,7 @@ This structure allows efficient querying of movie details, genre classification,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Personal-hulisanin/movie_etl_project.git
+   git clone https://github.com/bsrikanth24/movie_etl_project.git
    cd movie_etl_project
 
 2. Install dependencies:
